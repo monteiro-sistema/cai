@@ -1,2 +1,2 @@
 
-INSERT INTO cadastro (matricula, nome, pasta, gaveta) VALUES("20191975", "SANDRA HELENA VIERA MONTEIRO", "057", "G48");
+INSERT INTO tb_alunos (matricula, nome, pasta, gaveta) VALUES("20191974", "JOAO BATISTA MONTEIRO", "P10", "G48");
