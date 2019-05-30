@@ -1,0 +1,2 @@
+
+INSERT INTO cadastro (matricula, nome, pasta, gaveta) VALUES("20191975", "SANDRA HELENA VIERA MONTEIRO", "057", "G48");
